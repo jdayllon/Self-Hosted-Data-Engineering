@@ -1,0 +1,5 @@
+service:
+    type: NodePort
+    nodePort: 30432
+postgresqlUsername: postgres
+postgresqlPassword: password
