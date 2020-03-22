@@ -1,0 +1,8 @@
+service:
+    type: NodePort
+    nodePorts:
+        cql: 30942
+        rcp: 30160
+dbUser:
+    user: cassandra
+    password: password
