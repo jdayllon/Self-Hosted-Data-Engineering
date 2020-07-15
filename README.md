@@ -1,6 +1,6 @@
-# Data Engineering Nanodegree
+# Data Engineering Nanodegree - SelfHosted
 
-Projects and resources developed in the [DEND Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) from Udacity.
+This repo contains projects and resources developed in the [DEND Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) from Udacity but adapted to use self-hosted resources based on Kubernetes instead of using cloud alternatives. This is useful to learn related technologies to data engineering like K8s and solve vendor locking.
 
 ## Project 1: [Relational Databases - Data Modeling with PostgreSQL](https://github.com/nareshk1290/Udacity-Data-Engineering/tree/master/Data-Modeling/Project%201).
 Developed a relational database using PostgreSQL to model user activity data for a music streaming app. Skills include:
